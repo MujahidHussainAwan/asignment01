@@ -1,0 +1,16 @@
+[{
+  "_id": "643fa5797d03184eabc7a6b9",
+  "reference": "00001",
+  "title": "Title Test",
+  "description": "Description Test",
+  "main_image": "images/main_image_1_test.jpg",
+  "additional_images": [
+    "images/additional_image_1_test.jpg",
+    "images/additional_image_2_test.jpg",
+    "images/additional_image_3_test.jpg"
+  ],
+  "date_time": 1671017885,
+  "userId": [
+    "[ObjectId(\"61d320244c0ab35a584fc147\"),ObjectId(\"61d320244c0ab35a584fc146\")]"
+  ]
+}]

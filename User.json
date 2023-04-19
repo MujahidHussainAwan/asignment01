@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "643fa2477d03184eabc7a6b0"
+  },
+  "firstName": "James",
+  "lastName": "Bond",
+  "email": "jamesbond.007@gmail.com",
+  "phone": "+574965656",
+  "password": "16EFPO@#562@#$Siu9781",
+  "\"blogId\"": [
+    "[ObjectId(\"61d31f0a4c0ab35a584fc144\"),ObjectId(\"61d31f0a4c0ab35a584fc145\")]"
+  ]
+}]
